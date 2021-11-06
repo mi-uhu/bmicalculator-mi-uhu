@@ -1,8 +1,8 @@
 /*
 
-Name: Your firstname and Lastname
-Email: Your Campus02-Mail-Address
-Matrikel-Number: Your Matrikel-Number
+Name: Michael Unterhuber
+Email: 01609582@edu.campus02.at
+Matrikel-Number: 01609582
 
 
  */
