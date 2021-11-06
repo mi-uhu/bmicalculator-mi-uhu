@@ -57,7 +57,7 @@ public class BMICalculator {
     }
 
     public double calculateBMI() {
-        return bodyWeight / (((double)bodyHeight / 100) * ((double)bodyHeight / 100));
+        return round(bodyWeight / (((double)bodyHeight / 100) * ((double)bodyHeight / 100)));
     }
 
     public int calculateBMICategory() {
